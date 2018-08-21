@@ -6,7 +6,7 @@
 * [How to Open the Game](#how-to-open-the-game)
 * [How to Play](#how-to-play)
 * [Bugs and Feature Requests](#bugs-and-feature-requests)
-*[Resources Used](#resources-used)
+* [Resources Used](#resources-used)
 
 ## Project Background
 This game is built as the project for Udacity Intro to Programming Nanodegree Program - Front-End Development. This project demonstrate mastery of HTML, CSS and Javascript. It is a complete browser-based card matching game.
