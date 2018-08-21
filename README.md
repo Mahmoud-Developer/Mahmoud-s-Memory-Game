@@ -6,6 +6,7 @@
 * [How to Open the Game](#how-to-open-the-game)
 * [How to Play](#how-to-play)
 * [Bugs and Feature Requests](#bugs-and-feature-requests)
+*[Resources Used](#resources-used)
 
 ## Project Background
 This game is built as the project for Udacity Intro to Programming Nanodegree Program - Front-End Development. This project demonstrate mastery of HTML, CSS and Javascript. It is a complete browser-based card matching game.
@@ -21,7 +22,7 @@ This project contains following files:
 - README.md: explanation of the game.
 
 ## How to Open the Game
-Download the project zip file to your pc and unzip the file. Or clone the repo to your pc.
+Download the project zip file to your pc and unzip the file after that make folders for images ,screenshots ,css & js by the files inside it and enjoy playing the game. Or clone the repo to your pc.
 Open game.html in browser. Your browser should launch the game.
 
 ## How to Play
